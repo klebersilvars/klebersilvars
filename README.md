@@ -16,3 +16,5 @@
   
 </div>
 
+###Atualmente, estou fazendo um curso de Node JS para me tornar full-stack
+
