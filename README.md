@@ -16,6 +16,7 @@
   <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="react-native" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img align="center" alt="typescript" src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img align="center" alt="firebase" src="https://img.shields.io/badge/Firebase-FFA500?style=for-the-badge&logo=firebase&logoColor=white"/>
   
   
 </div>
